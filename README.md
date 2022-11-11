@@ -11,3 +11,9 @@
 - setup react-router-dom
 - config tialwind (reset width height default)
 - add folder img to public
+
+### Add connect firebase
+- config file firebase
+- refactor img avatar\
+- authentication with gmail
+- Change .env => restart project
